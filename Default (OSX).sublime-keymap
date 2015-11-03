@@ -1,2 +1,5 @@
 [
+	{"keys": ["command+0"],  "command": "reset_font_size_to_user_defaults"},
+	{"keys": ["f5"],         "command": "revert"},
+	{"keys": ["command+t"],  "command": "new_file"}
 ]
