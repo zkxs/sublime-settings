@@ -1,0 +1,14 @@
+{
+	"cmd": ["fsc.bat", "-feature", "-deprecation", "-cp", ".;C:\\Users\\michael\\tmp\\empty\\scalatesting\\Hacker.org\\lib", "-Dfile.encoding=UTF-8", "$file"],
+	"file_regex": "^(...*?):([0-9]*):?([0-9]*)",
+	"selector": "source.scala",
+
+	"variants":
+	[
+		{
+			"name": "Run",
+			"working_dir": "${file_path}",
+			"cmd": ["java", "-cp", ".;C:\\Program Files (x86)\\scala\\lib\\scala-library.jar;C:\\Users\\michael\\tmp\\empty\\scalatesting\\Hacker.org\\lib", "-Dfile.encoding=UTF-8", "${file_base_name}"]
+		}
+	]
+}
