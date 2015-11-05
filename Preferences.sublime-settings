@@ -1,7 +1,7 @@
 {
 	"auto_match_enabled": true,
 	"default_font_size": 12,
-	"ensure_newline_at_eof_on_save": true,
+	"ensure_newline_at_eof_on_save": false,
 	"font_face": "DejaVu Sans Mono",
 	"font_size": 12,
 	"ignored_packages":
