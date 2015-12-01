@@ -1,4 +1,5 @@
 {
+	"auto_complete_commit_on_tab": true,
 	"auto_match_enabled": true,
 	"default_font_size": 12,
 	"ensure_newline_at_eof_on_save": false,
