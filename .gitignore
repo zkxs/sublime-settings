@@ -1,6 +1,14 @@
 # compiled python
 *.pyc
 
+# binary files
+**/bin/
+*.exe
+
+# log files
+log.txt
+*.log
+
 # Package Control stuff
 *.cache
 *.last-run
