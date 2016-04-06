@@ -1,4 +1,10 @@
 {
+	"9o.hist.C:\\Users\\michael\\Documents\\go_workspace\\oskarbot":
+	[
+		"go build oskarbot",
+		"go build oskarbot.go",
+		"go run oskarbot.go"
+	],
 	"9o.hist.C:\\Users\\michael\\tmp\\go":
 	[
 		"help",
@@ -14,7 +20,7 @@
 		"run",
 		"go run args.go \"herp derp\""
 	],
-	"ann": "a14.02.25-1",
-	"install_version": "r14.12.06-1",
-	"version": "r14.12.06-1"
+	"ann": "a16.03.22-1",
+	"install_version": "r16.03.22-1",
+	"version": "r16.03.22-1"
 }
