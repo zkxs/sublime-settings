@@ -6,8 +6,6 @@
 	"installed_packages":
 	[
 		"ExportHtml",
-		"GoOracle",
-		"GoSublime",
 		"INI",
 		"InsertDate",
 		"Package Control",
